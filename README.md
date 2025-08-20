@@ -1,5 +1,9 @@
 # How to Use:
 
+## [My YouTube video tutorial](https://www.youtube.com/watch?v=qoqTFtGZzKk)
+
+# Written Instructions:
+
 Run as administrator
 
 Click "No Saving: ON" when you are near completion of a heist (for example, exiting the compound on Cayo Perico)
