@@ -12,7 +12,9 @@ Wait until Story Mode is finished loading, wait 10 seconds while in Story Mode, 
 
 Load back into GTA Online
 
-You should have the money from the heist and the heist still uncompleted.
+You should have the money from the heist, but said heist is still able to be played.
+
+Repeat these steps until you've made enough money!
 
 ## FAQ:
 
