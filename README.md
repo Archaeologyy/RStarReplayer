@@ -4,7 +4,7 @@
 
 # Written Instructions:
 
-Run as administrator
+*Run as administrator, and make sure you have no other firewall on (norton 360, avast, etc.) This could cause it to not work and you losing your heist.*
 
 Click "No Saving: ON" when you are near completion of a heist (for example, exiting the compound on Cayo Perico)
 
